@@ -1,0 +1,52 @@
+.salam{
+    background-color: rgb(135, 29, 235);
+}
+.exx{
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+    padding: 40px;
+}
+.save{
+    width: 100px;
+    height: 40px;
+    padding: auto;
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: yellow;
+    cursor: pointer;
+}
+.first{
+    background-color: aqua;
+}
+.second{
+    background-color: brown;
+}
+.list{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 100px;
+}
+.list-group{
+    width: 100px;
+    border: 1px solid black;
+    list-style-type: none;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.add{
+    border: 1px solid black;
+    width: 90px;
+    height: 40px;
+    margin-left: 200px;
+    background-color: aquamarine;
+}
+.innp{
+    border: 1px solid black;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 30px;
+}
